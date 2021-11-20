@@ -1,10 +1,10 @@
 let fs = require('fs')
 let chalk = require('chalk')
-global.owner = ['6285807231447', '6285777451314'] // Nomor Owner
+global.owner = ['6283119807354', '6282244793747'] // Nomor Owner
 global.autoread = true // false untuk menonaktifkan autoread, true untuk menyalakan autoread
 global.selfmode = false // false = Mode Publik, true = Mode Self
 global.thumb = './thumb/itsuki.jpg'
-global.fakereplyt = '*FAR-BOTz*' // Teks Untuk Fake Reply
+global.fakereplyt = '*PATRICK BOTZ*' // Teks Untuk Fake Reply
 global.mess = {
 group : {
 welcome : `- 𝐖 𝐄 𝐋 𝐂 𝐎 𝐌 𝐄  𝐅 𝐄 𝐀 𝐓 𝐔 𝐑 𝐄 -\n\n𝘚𝘦𝘭𝘢𝘮𝘢𝘵 𝘋𝘢𝘵𝘢𝘯𝘨 @user 👋🏻\n𝘥𝘪 𝘎𝘳𝘰𝘶𝘱: @subject\n𝗡𝗢𝗧𝗘: Semoga Betah ya di Group Ini!`, // Teks Untuk Welcome
@@ -18,7 +18,7 @@ success: '[ ✓ ] Mantap! Permintaan Anda telah Sukses kami Jalankan...' // Suks
 global.server = false // true = Manyalakan server Localhost, false = menonaktifkan server Localhost
 global.prefix = '.' // Skip, Ga Terlalu Berguna
 global.author = '❤️' // Nama Author Sticker
-global.packname = 'FarrellAR' // Nama Packname Sticker
+global.packname = 'Patrick-botz' // Nama Packname Sticker
 
 
 // LIST APIKEY
